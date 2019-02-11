@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "com.unity.package-manager-ui": "2.0.3",
+    "com.unity.postprocessing": "2.1.3",
+    "jp.keijiro.pcx": "https://github.com/keijiro/Pcx.git#upm",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "jp.keijiro.pcx": {
+      "hash": "ba8c4f8213606ecfaad69c4cab158a3b95ab9b8a",
+      "revision": "upm"
+    }
+  }
+}
